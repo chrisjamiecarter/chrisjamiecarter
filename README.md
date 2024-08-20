@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Chris</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="visualbasic" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</div>
+<br/><br/>
 
 - 🔭 I’m currently working on producing a portfolio of projects.
 - 🌱 I’m currently learning MVC.
@@ -7,16 +16,17 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chris-carter-1495801aa/)
 
+<br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chrisjamiecarter&show_icons=true&theme=dark&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chrisjamiecarter&show_icons=true&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisjamiecarter&show_icons=true" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=chrisjamiecarter&show_icons=true&theme=dark&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=chrisjamiecarter&show_icons=true&rank_icon=github"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=chrisjamiecarter&show_icons=true" />
+  </picture>
 </a>
