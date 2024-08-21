@@ -14,7 +14,7 @@
 <br/><br/>
 
 - 🔭 I’m currently working on producing a portfolio of projects.
-- 🌱 I’m currently learning MVC.
+- 🌱 I’m currently learning ASP.NET Core MVC.
 - 👯 I’m looking to collaborate on .NET projects.
 - 🤔 I’m looking for help with portfolio ideas.
 - 💬 Ask me about anything!
