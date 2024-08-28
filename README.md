@@ -18,7 +18,8 @@
 - 👯 I’m looking to collaborate on .NET projects.
 - 🤔 I’m looking for help with portfolio ideas.
 - 💬 Ask me about anything!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chris-carter-1495801aa/)
+- 📫 How to reach me: [![](https://img.shields.io/badge/-Chris%20Carter-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-carter-1495801aa/)](https://www.linkedin.com/in/chris-carter-1495801aa/)
+  
 
 <br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
