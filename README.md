@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Chris</h1>
-<p align="center">💻 Software Developer | ⚙️ Back-End Professional | 🎨 Front-End Dabbler | 🌐 Full Stack Explorer</p>
+<p align="center">💻 Senior Software Engineer | ⚙️ Back End Professional | 🎨 Front End Dabbler | 🌐 Full Stack Explorer</p>
 
 ## 🛠️ Tech Stack
 
